@@ -93,7 +93,7 @@ COMP 3311a | [Algorithmic Thinking 1 ](https://www.coursera.org/learn/algorithmi
 COMP 3311b | [Algorithmic Thinking 2 ](https://www.coursera.org/learn/algorithmic-thinking-2) | 4 Weeks | 6 Hours/Week
 MATH 3311 | [Linear Regression and Modeling (with R)](https://www.coursera.org/learn/linear-regression-model)| 4 Weeks | 6 Hours/Week
 MATH 3312 | [Bayesian Statistics (with R)](https://www.coursera.org/learn/bayesian) | 5 Weeks | 6 Hours/Week
-BIO 3312 | [Cell Biology ](http://ocw.mit.edu/courses/biology/7-06-cell-biology-spring-2007/) | - Weeks | - Hours/Week
+BIO 3312 | [Cell Biology ](http://ocw.mit.edu/courses/biology/7-06-cell-biology-spring-2007/)([alt](https://ocw.mit.edu/courses/res-7-007-7-06x-cell-biology/)) | - Weeks | - Hours/Week
 MATH 3313 | [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/) | 7 Weeks | 8-10 Hours/Week
 BIO 3313a | [Biostatistics 1](https://www.coursera.org/learn/biostatistics) | 4 Weeks | 3-5 Hours/Week
 BIO 3313b | [Biostatistics 2](https://www.coursera.org/learn/biostatistics-2) | 4 Weeks | 3-5 Hours/Week
@@ -105,7 +105,7 @@ Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 BIO 4311 | [DNA: Biology's Genetic Code](https://www.edx.org/course/dna-biologys-genetic-code) | 6 Weeks | 4-6 Hours/Week
 COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/Week
-BIO 4312a | [Molecular Biology](https://ocw.mit.edu/courses/biology/7-28-molecular-biology-spring-2005/) | 16 Weeks | 4-8 Hours/Week
+BIO 4312a | [Molecular Biology](https://ocw.mit.edu/courses/biology/7-28-molecular-biology-spring-2005/)([alt](https://ocw.mit.edu/courses/res-7-008-7-28x-molecular-biology/)) | 16 Weeks | 4-8 Hours/Week
 BIO 4312d | [Bioinformatics 1](https://www.coursera.org/learn/dna-analysis) | 4 Weeks | 4-10 Hours/Week
 COMP 4312a | [Bioinformatics 2](https://www.coursera.org/learn/genome-sequencing) | 4 Week | 6 Hours/Week
 COMP 4312b | [Bioinformatics 3](https://www.coursera.org/learn/comparing-genomes) | 4 Week | 6 Hours/Week
