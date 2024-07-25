@@ -93,7 +93,7 @@ COMP 3311a | [Algorithmic Thinking 1 ](https://www.coursera.org/learn/algorithmi
 COMP 3311b | [Algorithmic Thinking 2 ](https://www.coursera.org/learn/algorithmic-thinking-2) | 4 Weeks | 6 Hours/Week
 MATH 3311 | [Linear Regression and Modeling (with R)](https://www.coursera.org/learn/linear-regression-model)| 4 Weeks | 6 Hours/Week
 MATH 3312 | [Bayesian Statistics (with R)](https://www.coursera.org/learn/bayesian) | 5 Weeks | 6 Hours/Week
-BIO 3312 | [Cell Biology ](http://ocw.mit.edu/courses/biology/7-06-cell-biology-spring-2007/) ([alt](https://ocw.mit.edu/courses/res-7-007-7-06x-cell-biology/)) | - Weeks | - Hours/Week
+BIO 3312 | [Cell Biology ](https://dspace.mit.edu/bitstream/handle/1721.1/148367/7-06-spring-2007/contents/index.htm) ([alt](https://ocw.mit.edu/courses/res-7-007-7-06x-cell-biology/)) | - Weeks | - Hours/Week
 MATH 3313 | [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/) | 7 Weeks | 8-10 Hours/Week
 BIO 3313a | [Biostatistics 1](https://www.coursera.org/learn/biostatistics) | 4 Weeks | 3-5 Hours/Week
 BIO 3313b | [Biostatistics 2](https://www.coursera.org/learn/biostatistics-2) | 4 Weeks | 3-5 Hours/Week
