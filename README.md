@@ -79,7 +79,7 @@ CHEM 2311 | [Organic Chemistry](http://ocw.mit.edu/courses/chemistry/5-12-organi
 COMP 2311 | [CS 2 - Object Oriented Java](https://www.coursera.org/learn/object-oriented-java) | 6 Weeks | 4-6 Hours/Week
 18.01.3x | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week
 6.042J | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([Solutions](https://github.com/spamegg1/Math-for-CS-solutions)) | 13 weeks | 5 hours/week
-COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
+COMP 2312 | [Databases](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) | 10 Weeks | 8-12 Hours/Week
 18.06 | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) and [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 14 weeks | 12 hours/week
 COMP 2313 | [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0) | 8 Weeks | 5-7 Hours/Week
 MATH 2314 | [Inferential Statistics (with R)](https://www.coursera.org/learn/inferential-statistics-intro) | 5 Weeks | 6 Hours/Week
